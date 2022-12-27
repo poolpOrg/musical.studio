@@ -1,5 +1,5 @@
 ---
-title: "Créer son homestudio ?"
+title: "Et si je me créais mon studio ?"
 date: 2022-12-27T10:54:11+01:00
 draft: false
 tags: ["homestudio"]
@@ -125,9 +125,7 @@ aussi minimaliste soit-il,
 pour pouvoir utiliser la large panoplie d'outils qu'offre la music assistée par ordinateur y compris dans la simple pratique d'un instrument sans aucun objectif de production ou de création.
 
 
-
-
-# Monter un homestudio ça coûte cher ?
+# Se monter un homestudio ça coûte cher ?
 Monter un homestudio peut être coûteux,
 mais cela dépend surtout de vos besoins,
 de ce dont vous disposez déjà comme matériel et de votre budget.
