@@ -11,7 +11,7 @@ googleAnalytics = "G-1F6307Z0H3"
   unsafe = true
 
 [params]
-  description = "le blog des débutants de la MAO"
+  description = "La MAO pour les noobs."
   #mailchimp = "you can provide a mailchimp-link here, see below"
   #mailprotect = "you can provide a protector-name here, see below"
   #customCSS = ["css/tweaks.css", "css/customHeader.css"]
@@ -23,12 +23,9 @@ googleAnalytics = "G-1F6307Z0H3"
   description = "Createur du blog."
 
 
-#[params.index]
-#  #picture = "/images/author.jpg"
-#  picture = "/images/logo.png"
-#  title = "Musical.Studio"
-#  subtitle = "I'm a unique placeholder. Working here and there!"
-#  mdtext = '''Currently trying to get this blog running, still don't know what the blog will be about!\
-#**This textblock is a demonstration of the mdtext-param.**\
-#### This is a markdown heading'''
-#  alertbar = true
+[params.index]
+  picture = "/images/logo.png"
+  title = "musical.studio"
+  subtitle = "La MAO pour les noobs."
+  mdtext = '''<a href="/posts/">Entrer dans le blog</a>'''
+  alertbar = true
