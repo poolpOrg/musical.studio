@@ -1,0 +1,17 @@
+name: CI
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@master
+      - name: Publish Site
+        uses: chabad360/hugo-gh-pages@master
+        with:
+          githubToken: ${{ secrets.GITHUB_TOKEN }}
