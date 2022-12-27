@@ -3,9 +3,14 @@ languageCode = 'fr'
 title = 'Musical.Studio'
 theme = "mediumish-gohugo-theme"
 summaryLength = 25
+contentDir = "content"
 copyright = "Gilles Chehade - All rights reserved"
 disqusShortname = "musical-studio"
 googleAnalytics = "G-1F6307Z0H3"
+enableEmoji = true
+
+[permalinks]
+	posts = "/posts/:year-:month-:day/:slug"
 
 [markup.goldmark.renderer]
   unsafe = true
@@ -15,7 +20,6 @@ googleAnalytics = "G-1F6307Z0H3"
   #mailchimp = "you can provide a mailchimp-link here, see below"
   #mailprotect = "you can provide a protector-name here, see below"
   #customCSS = ["css/tweaks.css", "css/customHeader.css"]
-
 
 [params.author]
   name = "Gilles Chehade"
