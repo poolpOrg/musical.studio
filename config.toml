@@ -41,12 +41,6 @@ enableEmoji = true
   mdtext = '''<a href="/posts/">Entrer dans le blog</a>'''
   alertbar = true
 
-
-[[menu.main]]
-    name = "Mentions légales"
-    url = "/mentions/"
-    weight = 1
-
 [taxonomies]
   author = "authors"
   tag = "tags"
