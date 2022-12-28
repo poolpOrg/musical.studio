@@ -16,6 +16,7 @@ enableEmoji = true
   unsafe = true
 
 [params]
+  logo = "/images/logo.png"
   description = "La MAO pour les noobs."
   #mailchimp = "you can provide a mailchimp-link here, see below"
   #mailprotect = "you can provide a protector-name here, see below"
