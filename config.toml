@@ -1,4 +1,4 @@
-baseURL = 'https://musical.studio/'
+baseURL = 'https://musical.studio'
 languageCode = 'fr'
 title = 'Musical.Studio'
 theme = "mediumish-gohugo-theme"
