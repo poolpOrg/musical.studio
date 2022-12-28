@@ -28,18 +28,31 @@ enableEmoji = true
 	page = ["HTML"]
 
 
+defaultContentLanguage = 'en'
+[languages]
+  [languages.en]
+    title = 'Musical.Studio'
+    weight = 1
+    contentDir = 'content/en'
+    #[languages.en.params]
+    #  linkedin = 'https://linkedin.com/whoever'
+    #  [languages.en.params.navigation]
+    #    help = 'Help'
+
+  [languages.fr]
+    title = 'Musical.Studio'
+    weight = 2
+    contentDir = 'content/fr'
+    #[languages.fr.params]
+    #  linkedin = 'https://linkedin.com/fr/whoever'
+    #  [languages.fr.params.navigation]
+    #    help = 'Aide'
+
+
 [params.author]
   name = "Gilles Chehade"
   thumbnail = "/images/gilles-chehade.jpeg"
   description = "Createur du blog."
-
-
-[params.index]
-  picture = "/images/logo.png"
-  title = "musical.studio"
-  subtitle = "La MAO pour les noobs."
-  mdtext = '''<a href="/posts/">Entrer dans le blog</a>'''
-  alertbar = true
 
 [taxonomies]
   author = "authors"
