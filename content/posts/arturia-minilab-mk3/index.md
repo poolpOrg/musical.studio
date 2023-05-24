@@ -1,5 +1,5 @@
 ---
-title: "Pourquoi l'Arturia Minilab MK3 est l'outil parfait pour votre studio"
+title: "Pourquoi l'Arturia Minilab Mk3 est l'outil parfait pour votre studio"
 date: 2023-05-24T00:00:00+01:00
 draft: false
 tags: ["homestudio", "clavier", "midi"]
