@@ -7,7 +7,6 @@ type: "post"
 comments: true
 ---
 
-**Résumé:**
 Dans ce tout premier article,
 je vous explique brièvement ce qu'est un homestudio,
 pourquoi ça pourrait vous intéresser,
