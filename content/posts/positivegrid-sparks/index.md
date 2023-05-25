@@ -9,6 +9,8 @@ comments: true
 
 <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=FR&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=poolporg00-21&language=fr_FR&marketplace=amazon&region=FR&placement=B08HQCG79H&asins=B08HQCG79H&linkId=53d37a2fb78305570a4bdd00b09bffff&show_border=true&link_opens_in_new_window=true"></iframe>
 
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=FR&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=poolporg00-21&language=fr_FR&marketplace=amazon&region=FR&placement=B09C7LXR11&asins=B09C7LXR11&linkId=4130a41f2ade2607b9e967a581001921&show_border=true&link_opens_in_new_window=true"></iframe>
+
 
 
 Aujourd'hui, on va jeter un coup d'œil à deux bijoux technologiques qui révolutionnent la pratique de la guitare et de la basse : les amplificateurs Positive Grid Spark et Spark Mini. Grâce à leur technologie innovante et à leur intégration numérique, découvrez pourquoi ces amplificateurs sont le choix parfait pour le musicien moderne.
